@@ -1,7 +1,7 @@
 ## Hi there 👋
-## 🔭 I’m currently working on Web Development.
-## 🌱 I’m currently learning Python.
-## 👯 I’m looking to collaborate on Projects.
+## 🌱 I’m currently a CS freshmen student.
+## 🔭 I’m consistently working on my Web Conversions Agency.
+## 👱🏻 I’m looking to collaborate on Projects.
 
 <!--
 **rennybekolli/rennybekolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
