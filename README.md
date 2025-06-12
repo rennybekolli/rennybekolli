@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🔭 I’m currently working on Web Development.
-## 🌱 I’m currently learning Python.
+## 🌱 I’m currently a CS freshmen student.
+## 🔭 I’m consistently working on my Web Conversions Agency.
 ## 👯 I’m looking to collaborate on Projects.
 
 <!--
